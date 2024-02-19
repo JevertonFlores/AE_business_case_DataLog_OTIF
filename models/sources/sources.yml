@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: seeds
+    description: Data coming from .csv files with data provides ERP.
+
+
+    tables:
+      - name: Pedidos
+        description: Tabela com os dados de pedidos.
+        
+      - name: Clientes
+        description: Tabela com os dados de clientes.
+
+      - name: Cidades
+        description: Tabela com os dados de cidades.
+
+      - name: Representantes
+        description: Tabela com os dados de representantes.
