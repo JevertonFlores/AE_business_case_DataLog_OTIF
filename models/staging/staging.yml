@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: staging
+    description: Dados vindos do source, com pequenos tratamentos..
+
+
+    tables:
+      - name: stg_pedidos
+        description: Tabela com os registros das vendas.
+        
+      - name: stg_clientes
+        description: Tabela com os registros dos clientes.
+
+      - name: stg_cidades
+        description: Tabela com o cadastro das cidades. 
+
+      - name: stg_representantes
+        description: Tabela com o cadastro dos representantes.
