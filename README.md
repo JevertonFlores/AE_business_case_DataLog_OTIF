@@ -9,7 +9,7 @@ A empresa está constantemente em busca da excelência por meio da implementaç�
 Com o objetivo de medir os resultados e melhorar o desempenho, surgiu uma solicitação do Diretor de Logística para avaliar o desempenho das entregas através da análise de OTIF (On Time In Full), que mede a capacidade de realizar as entregas dentro do prazo acordado, atendendo a quantidade dos produtos solicitados.
 
 ### Requisitos:
-O Dashboard entregue deverá possuir recursos que possibilitem obter as respostas para as perguntas listadas abaixo.
+O Dashboard entregue deverá possuir uma única tela resumindo os indicadores que possibilitem obter as respostas para as perguntas listadas abaixo.
 
 1. Qual foi o total de entregas em todo o período analisado?
 2. Qual é a quantidade de pedidos em aberto no total do período?
@@ -65,12 +65,13 @@ Para atender as necessidades de maneira eficaz e com um baixo custo tecnológico
 ![image](https://github.com/JevertonFlores/AE_business_case_DataLog_OTIF/assets/36814309/c0c64a64-995c-4d7b-a0e2-2ac7702235d0)
 
 ### Datamart armazenado no PostgreSQL:
-![image](https://github.com/JevertonFlores/AE_business_case_DataLog_OTIF/assets/36814309/62cd3fee-8116-4663-83f0-9ad0cc97b95e)
+![image](https://github.com/JevertonFlores/AE_business_case_DataLog_OTIF/assets/36814309/664f879f-c861-48dc-a8e0-a5c998b1a79c)
 
 ### Dashboard:
 O dashboard pode ser acessado pelo link --> 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDZkMmU0OTItNTY0Ny00NDUwLWJjMDctMDAwYmRhYmZhZGNlIiwidCI6ImRlYzg2NmVlLWFkZjAtNGIxZC1hMWJhLTdhODZjODY0OTRiZCJ9">- DataLog - OTIG
 
-### Telas do dashboard:
+### Tela do dashboard:
 
-![image](https://github.com/JevertonFlores/AE_business_case_DataLog_OTIF/assets/36814309/72eca046-bd11-4fb3-b7c0-b61aeda68ac0)
+![image](https://github.com/JevertonFlores/AE_business_case_DataLog_OTIF/assets/36814309/7d4fe1f2-9876-42f6-99d3-8db474ec9d58)
+
