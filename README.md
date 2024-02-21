@@ -73,5 +73,6 @@ O dashboard pode ser acessado pelo link -->
 
 ### Tela do dashboard:
 
-![image](https://github.com/JevertonFlores/AE_business_case_DataLog_OTIF/assets/36814309/7d4fe1f2-9876-42f6-99d3-8db474ec9d58)
+![image](https://github.com/JevertonFlores/AE_business_case_DataLog_OTIF/assets/36814309/bf5ec483-df53-402d-9caa-77ec9b053c20)
+
 
