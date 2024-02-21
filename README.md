@@ -69,7 +69,7 @@ Para atender as necessidades de maneira eficaz e com um baixo custo tecnológico
 
 ### Dashboard:
 O dashboard pode ser acessado pelo link --> 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNDZkMmU0OTItNTY0Ny00NDUwLWJjMDctMDAwYmRhYmZhZGNlIiwidCI6ImRlYzg2NmVlLWFkZjAtNGIxZC1hMWJhLTdhODZjODY0OTRiZCJ9">- DataLog - OTIG
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNDZkMmU0OTItNTY0Ny00NDUwLWJjMDctMDAwYmRhYmZhZGNlIiwidCI6ImRlYzg2NmVlLWFkZjAtNGIxZC1hMWJhLTdhODZjODY0OTRiZCJ9">- DataLog - OTIF
 
 ### Tela do dashboard:
 
