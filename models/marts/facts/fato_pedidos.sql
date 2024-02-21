@@ -42,6 +42,10 @@ final AS (
         ,p.data_cte
         ,p.data_entrega
         ,p.ocorrencia_devolucao
+        ,CASE 
+            WHEN data_entrega IS NOT NULL AND data_entrega <= data_prevista THEN 1
+            ELSE 0
+        END AS ontime
     FROM intermediate p 
     LEFT JOIN clientes c
         ON p.id_cliente = c.id_cliente
